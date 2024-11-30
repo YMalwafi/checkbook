@@ -31,7 +31,7 @@ public class AddEditWindow extends JFrame {
 	 */
 	private static final long serialVersionUID = 1L;
 	/**************************************
-	 * JCOMPONENTS START HERE
+	 * JCOMPONENTS START There
 	 *************************************/
 
 	private JLabel datelabel;
